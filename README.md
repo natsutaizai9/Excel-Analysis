@@ -14,16 +14,16 @@ An analysis of the historical data of a company which sells products and ships t
 
 # What I Learned
 ## Excel
-▪ Basic formulas: SUM, AVERAGE, MEAN, MEDIAN, SUMPRODUCT, CONCATENATE
-▪ Advance formulas: VLOOKUP, INDEX, MATCH, IF, COUNTIF, SUMIF
-▪ Remove duplicates and conditional formatting
-▪ Charts, filters, sort and slicers
-▪ Pivot tables and pivot charts
-▪ Ignore VBA, Macros, etc
+▪ Basic formulas: SUM, AVERAGE, MEAN, MEDIAN, SUMPRODUCT, CONCATENATE <br>
+▪ Advance formulas: VLOOKUP, INDEX, MATCH, IF, COUNTIF, SUMIF <br>
+▪ Remove duplicates and conditional formatting <br>
+▪ Charts, filters, sort and slicers <br>
+▪ Pivot tables and pivot charts <br>
+▪ Ignore VBA, Macros, etc <br>
 
 ## SQL
 ▪ Basic Queries: SELECT, WHERE, DISTINCT, LIKE, BETWEEN, ORDER BY, LIMIT, GROUP BY,
-HAVING CLAUSE, INSERT, UPDATE, ALTER, IMPORT, Data types
+HAVING CLAUSE, INSERT, UPDATE, ALTER, IMPORT, Data types <br>
 ▪ Advance Queries: Date time function, Window function, Sub query, Case statement, CTE,
-query optimisation
+query optimisation <br>
 ▪ JOINS: Inner, Outer, Left, Right
