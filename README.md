@@ -12,3 +12,18 @@ An analysis of the historical data of a company which sells products and ships t
 - **Power Pivot** is used to store the data for further exploration in the future, if the number of rows increases into the millions.
 - Implemented **OFFSET** and **COUNTA** functions to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions and by item types sold over time.
 
+## What I Learned
+#Excel
+▪ Basic formulas: SUM, AVERAGE, MEAN, MEDIAN, SUMPRODUCT, CONCATENATE
+▪ Advance formulas: VLOOKUP, INDEX, MATCH, IF, COUNTIF, SUMIF
+▪ Remove duplicates and conditional formatting
+▪ Charts, filters, sort and slicers
+▪ Pivot tables and pivot charts
+▪ Ignore VBA, Macros, etc
+
+#SQL
+▪ Basic Queries: SELECT, WHERE, DISTINCT, LIKE, BETWEEN, ORDER BY, LIMIT, GROUP BY,
+HAVING CLAUSE, INSERT, UPDATE, ALTER, IMPORT, Data types
+▪ Advance Queries: Date time function, Window function, Sub query, Case statement, CTE,
+query optimisation
+▪ JOINS: Inner, Outer, Left, Right
