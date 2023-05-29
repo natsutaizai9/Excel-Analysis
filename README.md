@@ -1,6 +1,8 @@
 # Excel-Analysis
 ## [Project- 1 Store Sales](https://github.com/natsutaizai9/Excel-Analysis/blob/main/Excel%20p/Vrinda%20Store%20Data%20Analysis.ods)
 
+Sales Analysis using Pivot Table and Chart
+
 ## Problem Statement
 An analysis of the historical data of a company which sells products and ships them to its customers' destinations was conducted in order to determine the future cost effective shipping methods and approaches.
 
